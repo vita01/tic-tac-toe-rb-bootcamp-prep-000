@@ -104,4 +104,4 @@ def play(board)
       puts "Congratulations #{winner}!"
     end
  end
-end
+
